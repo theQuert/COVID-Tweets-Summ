@@ -1,0 +1,5 @@
+*.DS_Store
+model/*
+test.csv
+omicron/topic_model*
+topic_model
